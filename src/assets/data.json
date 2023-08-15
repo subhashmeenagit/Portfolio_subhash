@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "date": "07/05/2022",
+      "title": "TECH_MASTER",
+      "description": "This a basic React Front End Project where I used Beautiful carosel and Basic js and sass",
+      "url": "https://reactone-mu-sage.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "11/9/2022",
+      "title": "VIDEOS",
+      "description": "This a react front end project where I used chakra ui with a beautipul pink theme and made a video library where people can upload video and watch free videos and they also can send there query to me ",
+      "url": "https://videoplayerreactandchakraui.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "29/11/2022",
+      "title": "coXinXoo",
+      "description": "In this applicatin I fatch real cryypto coins data and made a page where you can see all crypto coins and there graph also. I sued react- chartjs for the chart ",
+      "url": "https://react-crypto-app-nine-ruddy.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+    {
+      "date": "17/12/2022",
+      "title": "REACT CART",
+      "description": "In this application  i made a Shopping cart using redux where you can add items delete them and you will get total shoping amount also.",
+      "url": "https://cartreact-delta.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "23/12/2022",
+      "title": "PORTFOLIO",
+      "description": "This is  a portofolio where I upload my projects releted things ",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
